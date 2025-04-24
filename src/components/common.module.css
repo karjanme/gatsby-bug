@@ -1,0 +1,14 @@
+body {
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: Arial, sans-serif;
+  font-size: 100%;
+  line-height: 1.25;
+  margin: 0;
+}
+
+.container {
+  margin: auto;
+  padding: 0;
+  max-width: 900px;
+}
